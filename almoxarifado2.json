@@ -1,0 +1,5926 @@
+[
+  {
+    "rua": "AMIL-01",
+    "lado": "E",
+    "racks": [
+      {
+        "posicao": "P1",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P2",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P3",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P4",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P5",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P6",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "AMIL - 101"
+          },
+          {
+            "nivel": "N2",
+            "produto": "AMIL - 301"
+          },
+          {
+            "nivel": "N3",
+            "produto": "AMIL - 401"
+          },
+          {
+            "nivel": "N4",
+            "produto": "AMIL - 501"
+          },
+          {
+            "nivel": "N5",
+            "produto": "AMIL - 601"
+          }
+        ]
+      },
+      {
+        "posicao": "P7",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "AMIL - 102"
+          },
+          {
+            "nivel": "N2",
+            "produto": "AMIL - 302"
+          },
+          {
+            "nivel": "N3",
+            "produto": "AMIL - 402"
+          },
+          {
+            "nivel": "N4",
+            "produto": "AMIL - 502"
+          },
+          {
+            "nivel": "N5",
+            "produto": "AMIL - 602"
+          }
+        ]
+      },
+      {
+        "posicao": "P8",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "AMIL - 103"
+          },
+          {
+            "nivel": "N2",
+            "produto": "AMIL - 303"
+          },
+          {
+            "nivel": "N3",
+            "produto": "AMIL - 403"
+          },
+          {
+            "nivel": "N4",
+            "produto": "AMIL - 503"
+          },
+          {
+            "nivel": "N5",
+            "produto": "AMIL - 603"
+          }
+        ]
+      },
+      {
+        "posicao": "P9",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "AMIL - 104"
+          },
+          {
+            "nivel": "N2",
+            "produto": "AMIL - 304"
+          },
+          {
+            "nivel": "N3",
+            "produto": "AMIL - 404"
+          },
+          {
+            "nivel": "N4",
+            "produto": "AMIL - 504"
+          },
+          {
+            "nivel": "N5",
+            "produto": "AMIL - 604"
+          }
+        ]
+      },
+      {
+        "posicao": "P10",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "AMIL - 105"
+          },
+          {
+            "nivel": "N2",
+            "produto": "AMIL - 305"
+          },
+          {
+            "nivel": "N3",
+            "produto": "AMIL - 405"
+          },
+          {
+            "nivel": "N4",
+            "produto": "AMIL - 505"
+          },
+          {
+            "nivel": "N5",
+            "produto": "AMIL - 605"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "corredor": true
+  },
+  {
+    "rua": "AMIL-02",
+    "lado": "D",
+    "racks": [
+      {
+        "posicao": "P1",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P2",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P3",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P4",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P5",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P6",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "AMIL - 110"
+          },
+          {
+            "nivel": "N2",
+            "produto": "AMIL - 310"
+          },
+          {
+            "nivel": "N3",
+            "produto": "AMIL - 410"
+          },
+          {
+            "nivel": "N4",
+            "produto": "AMIL - 510"
+          },
+          {
+            "nivel": "N5",
+            "produto": "AMIL - 610"
+          }
+        ]
+      },
+      {
+        "posicao": "P7",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "AMIL - 109"
+          },
+          {
+            "nivel": "N2",
+            "produto": "AMIL - 309"
+          },
+          {
+            "nivel": "N3",
+            "produto": "AMIL - 409"
+          },
+          {
+            "nivel": "N4",
+            "produto": "AMIL - 509"
+          },
+          {
+            "nivel": "N5",
+            "produto": "AMIL - 609"
+          }
+        ]
+      },
+      {
+        "posicao": "P8",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "AMIL - 108"
+          },
+          {
+            "nivel": "N2",
+            "produto": "AMIL - 308"
+          },
+          {
+            "nivel": "N3",
+            "produto": "AMIL - 408"
+          },
+          {
+            "nivel": "N4",
+            "produto": "AMIL - 508"
+          },
+          {
+            "nivel": "N5",
+            "produto": "AMIL - 608"
+          }
+        ]
+      },
+      {
+        "posicao": "P9",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "AMIL - 107"
+          },
+          {
+            "nivel": "N2",
+            "produto": "AMIL - 307"
+          },
+          {
+            "nivel": "N3",
+            "produto": "AMIL - 407"
+          },
+          {
+            "nivel": "N4",
+            "produto": "AMIL - 507"
+          },
+          {
+            "nivel": "N5",
+            "produto": "AMIL - 607"
+          }
+        ]
+      },
+      {
+        "posicao": "P10",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "AMIL - 106"
+          },
+          {
+            "nivel": "N2",
+            "produto": "AMIL - 306"
+          },
+          {
+            "nivel": "N3",
+            "produto": "AMIL - 406"
+          },
+          {
+            "nivel": "N4",
+            "produto": "AMIL - 506"
+          },
+          {
+            "nivel": "N5",
+            "produto": "AMIL - 606"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "rua": "AMIL-03",
+    "lado": "E",
+    "racks": [
+      {
+        "posicao": "P1",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P2",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P3",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P4",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P5",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P6",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "AMIL - 111"
+          },
+          {
+            "nivel": "N2",
+            "produto": "AMIL - 311"
+          },
+          {
+            "nivel": "N3",
+            "produto": "AMIL - 411"
+          },
+          {
+            "nivel": "N4",
+            "produto": "AMIL - 511"
+          },
+          {
+            "nivel": "N5",
+            "produto": "AMIL - 611"
+          }
+        ]
+      },
+      {
+        "posicao": "P7",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "AMIL - 112"
+          },
+          {
+            "nivel": "N2",
+            "produto": "AMIL - 312"
+          },
+          {
+            "nivel": "N3",
+            "produto": "AMIL - 412"
+          },
+          {
+            "nivel": "N4",
+            "produto": "AMIL - 512"
+          },
+          {
+            "nivel": "N5",
+            "produto": "AMIL - 612"
+          }
+        ]
+      },
+      {
+        "posicao": "P8",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "AMIL - 113"
+          },
+          {
+            "nivel": "N2",
+            "produto": "AMIL - 313"
+          },
+          {
+            "nivel": "N3",
+            "produto": "AMIL - 413"
+          },
+          {
+            "nivel": "N4",
+            "produto": "AMIL - 513"
+          },
+          {
+            "nivel": "N5",
+            "produto": "AMIL - 613"
+          }
+        ]
+      },
+      {
+        "posicao": "P9",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "AMIL - 114"
+          },
+          {
+            "nivel": "N2",
+            "produto": "AMIL - 314"
+          },
+          {
+            "nivel": "N3",
+            "produto": "AMIL - 414"
+          },
+          {
+            "nivel": "N4",
+            "produto": "AMIL - 514"
+          },
+          {
+            "nivel": "N5",
+            "produto": "AMIL - 614"
+          }
+        ]
+      },
+      {
+        "posicao": "P10",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "AMIL - 115"
+          },
+          {
+            "nivel": "N2",
+            "produto": "AMIL - 315"
+          },
+          {
+            "nivel": "N3",
+            "produto": "AMIL - 415"
+          },
+          {
+            "nivel": "N4",
+            "produto": "AMIL - 515"
+          },
+          {
+            "nivel": "N5",
+            "produto": "AMIL - 615"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "corredor": true
+  },
+  {
+    "rua": "AMIL-04",
+    "lado": "D",
+    "racks": [
+      {
+        "posicao": "P1",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P2",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P3",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P4",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P5",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P6",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "COLUNA"
+          },
+          {
+            "nivel": "N2",
+            "produto": "COLUNA"
+          },
+          {
+            "nivel": "N3",
+            "produto": "COLUNA"
+          },
+          {
+            "nivel": "N4",
+            "produto": "COLUNA"
+          },
+          {
+            "nivel": "N5",
+            "produto": "COLUNA"
+          }
+        ]
+      },
+      {
+        "posicao": "P7",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "AMIL - 119"
+          },
+          {
+            "nivel": "N2",
+            "produto": "AMIL - 319"
+          },
+          {
+            "nivel": "N3",
+            "produto": "AMIL - 419"
+          },
+          {
+            "nivel": "N4",
+            "produto": "AMIL - 519"
+          },
+          {
+            "nivel": "N5",
+            "produto": "AMIL - 619"
+          }
+        ]
+      },
+      {
+        "posicao": "P8",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "AMIL - 118"
+          },
+          {
+            "nivel": "N2",
+            "produto": "AMIL - 318"
+          },
+          {
+            "nivel": "N3",
+            "produto": "AMIL - 418"
+          },
+          {
+            "nivel": "N4",
+            "produto": "AMIL - 518"
+          },
+          {
+            "nivel": "N5",
+            "produto": "AMIL - 618"
+          }
+        ]
+      },
+      {
+        "posicao": "P9",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "AMIL - 117"
+          },
+          {
+            "nivel": "N2",
+            "produto": "AMIL - 317"
+          },
+          {
+            "nivel": "N3",
+            "produto": "AMIL - 417"
+          },
+          {
+            "nivel": "N4",
+            "produto": "AMIL - 517"
+          },
+          {
+            "nivel": "N5",
+            "produto": "AMIL - 617"
+          }
+        ]
+      },
+      {
+        "posicao": "P10",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "AMIL - 116"
+          },
+          {
+            "nivel": "N2",
+            "produto": "AMIL - 316"
+          },
+          {
+            "nivel": "N3",
+            "produto": "AMIL - 416"
+          },
+          {
+            "nivel": "N4",
+            "produto": "AMIL - 516"
+          },
+          {
+            "nivel": "N5",
+            "produto": "AMIL - 616"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "rua": "RUA A",
+    "lado": "E",
+    "racks": [
+      {
+        "posicao": "P1",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P2",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P3",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P4",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P5",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P6",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RAP01N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RAP01N03"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RAP01N04"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RAP01N05"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RAP01N06"
+          }
+        ]
+      },
+      {
+        "posicao": "P7",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RAP02N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RAP02N03"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RAP02N04"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RAP02N05"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RAP02N06"
+          }
+        ]
+      },
+      {
+        "posicao": "P8",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RAP03N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RAP03N03"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RAP03N04"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RAP03N05"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RAP03N06"
+          }
+        ]
+      },
+      {
+        "posicao": "P9",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RAP04N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RAP04N03"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RAP04N04"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RAP04N05"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RAP04N06"
+          }
+        ]
+      },
+      {
+        "posicao": "P10",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RAP05N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RAP05N03"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RAP05N04"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RAP05N05"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RAP05N06"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "corredor": true
+  },
+  {
+    "rua": "A",
+    "lado": "D",
+    "racks": [
+      {
+        "posicao": "P1",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P2",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P3",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P4",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P5",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P6",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RAP10N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RAP10N03"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RAP10N04"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RAP10N05"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RAP10N06"
+          }
+        ]
+      },
+      {
+        "posicao": "P7",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RAP09N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RAP09N03"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RAP09N04"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RAP09N05"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RAP09N06"
+          }
+        ]
+      },
+      {
+        "posicao": "P8",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RAP08N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RAP08N03"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RAP08N04"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RAP08N05"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RAP08N06"
+          }
+        ]
+      },
+      {
+        "posicao": "P9",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RAP07N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RAP07N03"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RAP07N04"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RAP07N05"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RAP07N06"
+          }
+        ]
+      },
+      {
+        "posicao": "P10",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RAP06N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RAP06N03"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RAP06N04"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RAP06N05"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RAP06N06"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "corredor": true
+  },
+  {
+    "rua": "B",
+    "lado": "E",
+    "racks": [
+      {
+        "posicao": "P1",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P2",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P3",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P4",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P5",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P6",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RBP01N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RBP01N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RBP01N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RBP01N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RBP01N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P7",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RBP02N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RBP02N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RBP02N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RBP02N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RBP02N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P8",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RBP03N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RBP03N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RBP03N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RBP03N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RBP03N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P9",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RBP04N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RBP04N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RBP04N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RBP04N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RBP04N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P10",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RBP05N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RBP05N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RBP05N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RBP05N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RBP05N05"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "corredor": true
+  },
+  {
+    "rua": "B",
+    "lado": "D",
+    "racks": [
+      {
+        "posicao": "P1",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P2",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P3",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P4",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P5",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P6",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RBP10N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RBP10N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RBP10N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RBP10N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RBP10N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P7",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RBP09N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RBP09N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RBP09N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RBP09N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RBP09N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P8",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RBP08N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RBP08N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RBP08N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RBP08N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RBP08N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P9",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RBP07N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RBP07N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RBP07N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RBP07N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RBP07N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P10",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RBP06N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RBP06N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RBP06N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RBP06N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RBP06N05"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "rua": "C",
+    "lado": "E",
+    "racks": [
+      {
+        "posicao": "P1",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P2",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P3",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P4",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P5",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P6",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RCP01N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RCP01N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RCP01N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RCP01N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RCP01N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P7",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RCP02N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RCP02N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RCP02N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RCP02N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RCP02N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P8",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RCP03N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RCP03N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RCP03N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RCP03N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RCP03N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P9",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RCP04N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RCP04N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RCP04N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RCP04N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RCP04N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P10",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RCP05N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RCP05N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RCP05N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RCP05N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RCP05N05"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "corredor": true
+  },
+  {
+    "rua": "C",
+    "lado": "D",
+    "racks": [
+      {
+        "posicao": "P1",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P2",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P3",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P4",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P5",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P6",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "COLUNA"
+          },
+          {
+            "nivel": "N2",
+            "produto": "COLUNA"
+          },
+          {
+            "nivel": "N3",
+            "produto": "COLUNA"
+          },
+          {
+            "nivel": "N4",
+            "produto": "COLUNA"
+          },
+          {
+            "nivel": "N5",
+            "produto": "COLUNA"
+          }
+        ]
+      },
+      {
+        "posicao": "P7",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RCP09N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RCP09N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RCP09N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RCP09N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RCP09N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P8",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RCP08N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RCP08N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RCP08N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RCP08N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RCP08N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P9",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RCP07N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RCP07N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RCP07N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RCP07N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RCP07N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P10",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RCP06N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RCP06N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RCP06N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RCP06N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RCP06N05"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "rua": "D",
+    "lado": "E",
+    "racks": [
+      {
+        "posicao": "P1",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P2",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P3",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P4",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P5",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P6",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RDP01N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RDP01N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RDP01N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RDP01N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RDP01N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P7",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RDP02N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RDP02N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RDP02N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RDP02N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RDP02N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P8",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RDP03N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RDP03N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RDP03N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RDP03N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RDP03N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P9",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RDP04N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RDP04N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RDP04N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RDP04N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RDP04N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P10",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RDP05N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RDP05N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RDP05N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RDP05N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RDP05N05"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "corredor": true
+  },
+  {
+    "rua": "D",
+    "lado": "D",
+    "racks": [
+      {
+        "posicao": "P1",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P2",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P3",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P4",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P5",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P6",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RDP10N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RDP10N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RDP10N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RDP10N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RDP10N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P7",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RDP09N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RDP09N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RDP09N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RDP09N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RDP09N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P8",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RDP08N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RDP08N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RDP08N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RDP08N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RDP08N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P9",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RDP07N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RDP07N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RDP07N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RDP07N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RDP07N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P10",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RDP06N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RDP06N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RDP06N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RDP06N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RDP06N05"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "rua": "E",
+    "lado": "E",
+    "racks": [
+      {
+        "posicao": "P1",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P2",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P3",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P4",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P5",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P6",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "REP01N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "REP01N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "REP01N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "REP01N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "REP01N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P7",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "REP02N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "REP02N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "REP02N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "REP02N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "REP02N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P8",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "REP03N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "REP03N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "REP03N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "REP03N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "REP03N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P9",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "REP04N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "REP04N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "REP04N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "REP04N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "REP04N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P10",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "REP05N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "REP05N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "REP05N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "REP05N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "REP05N05"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "corredor": true
+  },
+  {
+    "rua": "E",
+    "lado": "D",
+    "racks": [
+      {
+        "posicao": "P1",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P2",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P3",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P4",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P5",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "0"
+          }
+        ]
+      },
+      {
+        "posicao": "P6",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "REP10N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "REP10N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "REP10N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "REP10N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "REP10N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P7",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "REP09N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "REP09N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "REP09N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "REP09N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "REP09N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P8",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "REP08N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "REP08N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "REP08N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "REP08N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "REP08N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P9",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "REP07N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "REP07N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "REP07N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "REP07N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "REP07N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P10",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "REP06N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "REP06N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "REP06N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "REP06N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "REP06N05"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "rua": "F",
+    "lado": "E",
+    "racks": [
+      {
+        "posicao": "P1",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P2",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RFP01N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RFP01N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RFP01N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RFP01N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RFP01N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P3",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RFP02N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RFP02N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RFP02N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RFP02N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RFP02N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P4",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RFP03N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RFP03N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RFP03N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RFP03N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RFP03N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P5",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RFP04N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RFP04N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RFP04N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RFP04N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RFP04N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P6",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RFP05N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RFP05N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RFP05N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RFP05N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RFP05N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P7",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RFP06N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RFP06N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RFP06N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RFP06N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RFP06N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P8",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RFP07N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RFP07N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RFP07N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RFP07N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RFP07N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P9",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RFP08N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RFP08N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RFP08N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RFP08N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RFP08N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P10",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RFP09N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RFP09N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RFP09N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RFP09N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RFP09N05"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "corredor": true
+  },
+  {
+    "rua": "F",
+    "lado": "D",
+    "racks": [
+      {
+        "posicao": "P1",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "-"
+          },
+          {
+            "nivel": "N2",
+            "produto": "-"
+          },
+          {
+            "nivel": "N3",
+            "produto": "-"
+          },
+          {
+            "nivel": "N4",
+            "produto": "-"
+          },
+          {
+            "nivel": "N5",
+            "produto": "-"
+          }
+        ]
+      },
+      {
+        "posicao": "P2",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RFP18N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RFP18N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RFP18N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RFP18N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RFP18N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P3",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RFP17N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RFP17N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RFP17N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RFP17N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RFP17N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P4",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RFP16N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RFP16N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RFP16N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RFP16N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RFP16N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P5",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RFP15N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RFP15N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RFP15N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RFP15N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RFP15N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P6",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RFP14N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RFP14N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RFP14N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RFP14N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RFP14N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P7",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RFP13N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RFP13N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RFP13N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RFP13N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RFP13N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P8",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RFP12N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RFP12N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RFP12N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RFP12N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RFP12N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P9",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RFP11N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RFP11N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RFP11N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RFP11N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RFP11N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P10",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RFP10N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RFP10N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RFP10N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RFP10N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RFP10N05"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "rua": "G",
+    "lado": "E",
+    "racks": [
+      {
+        "posicao": "P1",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "COLUNA"
+          },
+          {
+            "nivel": "N2",
+            "produto": "COLUNA"
+          },
+          {
+            "nivel": "N3",
+            "produto": "COLUNA"
+          },
+          {
+            "nivel": "N4",
+            "produto": "COLUNA"
+          },
+          {
+            "nivel": "N5",
+            "produto": "COLUNA"
+          }
+        ]
+      },
+      {
+        "posicao": "P2",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RGP02N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RGP02N03"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RGP02N04"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RGP02N05"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RGP02N06"
+          }
+        ]
+      },
+      {
+        "posicao": "P3",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RGP03N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RGP03N03"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RGP03N04"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RGP03N05"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RGP03N06"
+          }
+        ]
+      },
+      {
+        "posicao": "P4",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RGP04N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RGP04N03"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RGP04N04"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RGP04N05"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RGP04N06"
+          }
+        ]
+      },
+      {
+        "posicao": "P5",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RGP05N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RGP05N03"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RGP05N04"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RGP05N05"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RGP05N06"
+          }
+        ]
+      },
+      {
+        "posicao": "P6",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RGP06N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RGP06N03"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RGP06N04"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RGP06N05"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RGP06N06"
+          }
+        ]
+      },
+      {
+        "posicao": "P7",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RGP07N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RGP07N03"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RGP07N04"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RGP07N05"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RGP07N06"
+          }
+        ]
+      },
+      {
+        "posicao": "P8",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RGP08N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RGP08N03"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RGP08N04"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RGP08N05"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RGP08N06"
+          }
+        ]
+      },
+      {
+        "posicao": "P9",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RGP09N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RGP09N03"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RGP09N04"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RGP09N05"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RGP09N06"
+          }
+        ]
+      },
+      {
+        "posicao": "P10",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RGP10N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RGP10N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RGP10N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RGP10N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RGP10N05"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "corredor": true
+  },
+  {
+    "rua": "I",
+    "lado": "D",
+    "racks": [
+      {
+        "posicao": "P1",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RIP20N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RIP20N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RIP20N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RIP20N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RIP20N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P2",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RIP19N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RIP19N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RIP19N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RIP19N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RIP19N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P3",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RIP18N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RIP18N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RIP18N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RIP18N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RIP18N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P4",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RIP17N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RIP17N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RIP17N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RIP17N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RIP17N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P5",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RIP16N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RIP16N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RIP16N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RIP16N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RIP16N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P6",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RIP15N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RIP15N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RIP15N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RIP15N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RIP15N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P7",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RIP14N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RIP14N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RIP14N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RIP14N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RIP14N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P8",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RIP13N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RIP13N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RIP13N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RIP13N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RIP13N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P9",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RIP12N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RIP12N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RIP12N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RIP12N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RIP12N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P10",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RIP11N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RIP11N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RIP11N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RIP11N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RIP11N05"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "rua": "J",
+    "lado": "E",
+    "racks": [
+      {
+        "posicao": "P1",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RJP01N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RJP01N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RJP01N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RJP01N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RJP01N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P2",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RJP02N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RJP02N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RJP02N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RJP02N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RJP02N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P3",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RJP03N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RJP03N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RJP03N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RJP03N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RJP03N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P4",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RJP04N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RJP04N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RJP04N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RJP04N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RJP04N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P5",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RJP05N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RJP05N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RJP05N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RJP05N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RJP05N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P6",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RJP06N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RJP06N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RJP06N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RJP06N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RJP06N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P7",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RJP07N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RJP07N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RJP07N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RJP07N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RJP07N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P8",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RJP08N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RJP08N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RJP08N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RJP08N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RJP08N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P9",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RJP09N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RJP09N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RJP09N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RJP09N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RJP09N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P10",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RJP10N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RJP10N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RJP10N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RJP10N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RJP10N05"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "corredor": true
+  },
+  {
+    "rua": "J",
+    "lado": "D",
+    "racks": [
+      {
+        "posicao": "P1",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RJP20N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RJP20N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RJP20N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RJN01N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RJP20N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P2",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RJP19N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RJP19N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RJP19N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RJN01N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RJP19N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P3",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RJP18N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RJP18N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RJP18N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RJN01N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RJP18N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P4",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RJP17N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RJP17N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RJP17N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RJN01N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RJP17N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P5",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RJP16N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RJP16N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RJP16N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RJN01N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RJP16N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P6",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RJP15N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RJP15N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RJP15N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RJN01N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RJP15N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P7",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RJP14N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RJP14N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RJP14N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RJN01N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RJP14N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P8",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RJP13N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RJP13N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RJP13N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RJN01N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RJP13N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P9",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RJP12N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RJP12N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RJP12N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RJN01N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RJP12N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P10",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RJP11N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RJP11N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RJP11N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RJN01N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RJP11N05"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "rua": "K",
+    "lado": "E",
+    "racks": [
+      {
+        "posicao": "P1",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RKP01N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RKP01N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RKP01N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RKP01N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RKP01N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P2",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RKP02N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RKP02N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RKP02N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RKP02N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RKP02N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P3",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RKP03N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RKP03N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RKP03N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RKP03N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RKP03N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P4",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RKP04N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RKP04N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RKP04N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RKP04N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RKP04N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P5",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RKP05N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RKP05N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RKP05N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RKP05N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RKP05N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P6",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RKP06N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RKP06N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RKP06N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RKP06N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RKP06N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P7",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RKP07N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RKP07N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RKP07N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RKP07N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RKP07N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P8",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RKP08N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RKP08N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RKP08N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RKP08N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RKP08N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P9",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RKP09N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RKP09N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RKP09N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RKP09N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RKP09N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P10",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RKP10N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RKP10N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RKP10N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RKP10N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RKP10N05"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "corredor": true
+  },
+  {
+    "rua": "K",
+    "lado": "D",
+    "racks": [
+      {
+        "posicao": "P1",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RKP20N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RKP20N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RKP20N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RKP20N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RKP20N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P2",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RKP19N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RKP19N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RKP19N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RKP19N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RKP19N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P3",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RKP18N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RKP18N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RKP18N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RKP18N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RKP18N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P4",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RKP17N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RKP17N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RKP17N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RKP17N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RKP17N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P5",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RKP16N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RKP16N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RKP16N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RKP16N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RKP16N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P6",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RKP15N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RKP15N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RKP15N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RKP15N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RKP15N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P7",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RKP14N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RKP14N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RKP14N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RKP14N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RKP14N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P8",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RKP13N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RKP13N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RKP13N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RKP13N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RKP13N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P9",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RKP12N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RKP12N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RKP12N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RKP12N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RKP12N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P10",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RKP11N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RKP11N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RKP11N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RKP11N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RKP11N05"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "rua": "L",
+    "lado": "E",
+    "racks": [
+      {
+        "posicao": "P1",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RLP01N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RLP01N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RLP01N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RLP01N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RLP01N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P2",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RLP02N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RLP02N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RLP02N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RLP02N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RLP02N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P3",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RLP03N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RLP03N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RLP03N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RLP03N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RLP03N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P4",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RLP04N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RLP04N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RLP04N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RLP04N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RLP04N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P5",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RLP05N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RLP05N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RLP05N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RLP05N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RLP05N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P6",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RLP06N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RLP06N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RLP06N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RLP06N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RLP06N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P7",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RLP07N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RLP07N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RLP07N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RLP07N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RLP07N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P8",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RLP08N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RLP08N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RLP08N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RLP08N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RLP08N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P9",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RLP09N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RLP09N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RLP09N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RLP09N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RLP09N05"
+          }
+        ]
+      },
+      {
+        "posicao": "P10",
+        "niveis": [
+          {
+            "nivel": "N1",
+            "produto": "RLP10N01"
+          },
+          {
+            "nivel": "N2",
+            "produto": "RLP10N02"
+          },
+          {
+            "nivel": "N3",
+            "produto": "RLP10N03"
+          },
+          {
+            "nivel": "N4",
+            "produto": "RLP10N04"
+          },
+          {
+            "nivel": "N5",
+            "produto": "RLP10N05"
+          }
+        ]
+      }
+    ]
+  }
+]
